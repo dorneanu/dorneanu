@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Victor and welcome to this special repository :) This site still has to be filled with content. TBD
+
 <!--
 **dorneanu/dorneanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
