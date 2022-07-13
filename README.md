@@ -38,7 +38,14 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
-  <!-- TWITTER:END -->
+- [Structurizr DSL from @thoughtworks will generate #plantuml C4 diagrams for software architecture models using a textual domain specific language  - https://github.com/structurizr/dsl](https://nitter.net/victordorneanu/status/1546795540419051520#m)
+- [R to @x86party: @victordorneanu](https://nitter.net/secalert/status/1546391115552759808#m)
+- [R to @golang: That&#39;s an awesome alternative! Thanks for making this possible since ssosync got abandoned!](https://nitter.net/victordorneanu/status/1545290579738824706#m)
+- [RT by @victordorneanu: In March we announced #GoHack partnership with CERN, challenging Gophers around the world to build open source web applications in Go and improve a series of featured open source Go libraries. Over 1,000 of you participated. 
+
+Congratulations to the winners! A thread. 🧵](https://nitter.net/golang/status/1545116443867504641#m)
+- [Again some &quot;#Rust vs #golang&quot; debate... But this one is full of good advices - https://news.ycombinator.com/item?id=31976407](https://nitter.net/victordorneanu/status/1544275197473308672#m)
+<!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
 
