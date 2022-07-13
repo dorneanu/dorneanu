@@ -1,10 +1,10 @@
   - [ ] <h2 align="center">👋 Welcome, bine ai venit, willkommen! My name is Victor. </h2>
-            <p align="center">
-            <a href="https://dornea.nu/cv">CV</a> •
-            <a href="https://blog.dornea.nu">Blog</a> •
-            <a href="https://twitter.com/victordorneanu">Twitter</a> •
-            <a href="https://www.linkedin.com/in/victor-dorneanu/">LinkedIn</a> 
-            </p>
+                    <p align="center">
+                    <a href="https://dornea.nu/cv">CV</a> •
+                    <a href="https://blog.dornea.nu">Blog</a> •
+                    <a href="https://twitter.com/victordorneanu">Twitter</a> •
+                    <a href="https://www.linkedin.com/in/victor-dorneanu/">LinkedIn</a> 
+                    </p>
 
   <!--
   **dorneanu/dorneanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,15 @@
 - [Book summary: Digital Minimalism](https://blog.dornea.nu/2022/05/02/book-summary-digital-minimalism/)
 - [Presentation as Code](https://blog.dornea.nu/2022/01/19/presentation-as-code/)
 <!-- BLOG-POST-LIST:END -->
+
+  ---
+
+  **📱 Latest Tweets**
+
+  <!-- TWITTER:START -->
+  <!-- TWITTER:END -->
+
+  ➡️ [more tweets...](https://twitter.com/victordorneanu)
 
   ---
 
