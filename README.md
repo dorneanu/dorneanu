@@ -26,7 +26,12 @@
   **📝 Latest Blog Posts**
 
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [RSS/Atom, Emacs and elfeed](https://blog.dornea.nu/2022/06/29/rss/atom-emacs-and-elfeed/)
+- [RSS and Atom for digital minimalists](https://blog.dornea.nu/2022/06/13/rss-and-atom-for-digital-minimalists/)
+- [Book summary: Breath - The New Science of a Lost Art](https://blog.dornea.nu/2022/05/30/book-summary-breath-the-new-science-of-a-lost-art/)
+- [Book summary: Digital Minimalism](https://blog.dornea.nu/2022/05/02/book-summary-digital-minimalism/)
+- [Presentation as Code](https://blog.dornea.nu/2022/01/19/presentation-as-code/)
+<!-- BLOG-POST-LIST:END -->
 
   ---
 
