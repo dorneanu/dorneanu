@@ -38,13 +38,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [R to @victordorneanu: I have no idea what an API REST is ... Is it A Post Intercourse Rest Period :-&rpar;](https://nitter.net/BeaBonobo/status/1547617122192216064#m)
+- [Among them: &quot;GTD by David Allen&quot;, &quot;The Effective Executive by Peter Drucker&quot;, &quot;Work the System by Sam Carpenter&quot;, &quot;Essentialism by Greg McKeown&quot;, &quot;Flow by Mihaly Csikszentmihalyi&quot; #productivity - https://www.scotthyoung.com/blog/2022/06/28/best-productivity-books/](https://nitter.net/victordorneanu/status/1547533600819666944#m)
+- [Dear Criminals, don&#39;t ignore #opsec &quot;De-anonymizing ransomware domains on the dark web&quot; - https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html #ransomware](https://nitter.net/victordorneanu/status/1547523040870862848#m)
+- [About simple #architecture - https://danluu.com/simple-architectures/ @danluu](https://nitter.net/victordorneanu/status/1547521345667358720#m)
 - [Use #emacs and #lisp to make HTTP requests against #tiddlywiki REST API - https://blog.dornea.nu/2022/07/12/tiddlywiki-and-emacs/](https://nitter.net/victordorneanu/status/1547262086560026624#m)
-- [Structurizr DSL from @thoughtworks will generate #plantuml C4 diagrams for software architecture models using a textual domain specific language  - https://github.com/structurizr/dsl](https://nitter.net/victordorneanu/status/1546795540419051520#m)
-- [R to @x86party: @victordorneanu](https://nitter.net/secalert/status/1546391115552759808#m)
-- [R to @golang: That&#39;s an awesome alternative! Thanks for making this possible since ssosync got abandoned!](https://nitter.net/victordorneanu/status/1545290579738824706#m)
-- [RT by @victordorneanu: In March we announced #GoHack partnership with CERN, challenging Gophers around the world to build open source web applications in Go and improve a series of featured open source Go libraries. Over 1,000 of you participated. 
-
-Congratulations to the winners! A thread. 🧵](https://nitter.net/golang/status/1545116443867504641#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
