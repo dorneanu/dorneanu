@@ -54,8 +54,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-Org           4 hrs 52 mins   ████████████▓░░░░░░░░░░░░   50.93 %
-Other         1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
