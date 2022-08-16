@@ -54,7 +54,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-Other         6 hrs 24 mins   ███████████████████░░░░░░   76.52 %
+Org          16 hrs 14 mins  ███████████████░░░░░░░░░░   59.93 %
+Emacs Lisp   3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Other        3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
 ```
 
 <!--END_SECTION:waka-->
