@@ -54,9 +54,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-Org          16 hrs 14 mins  ███████████████░░░░░░░░░░   59.93 %
-Emacs Lisp   3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Other        3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Org          13 hrs 48 mins  ███████████████░░░░░░░░░░   59.69 %
+Makefile     2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Other        1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
