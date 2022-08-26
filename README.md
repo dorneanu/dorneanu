@@ -54,8 +54,8 @@
   <!--START_SECTION:waka-->
 
 ```text
-Org          12 hrs 36 mins  ███████████▓░░░░░░░░░░░░░   46.33 %
-Other        5 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+Org          12 hrs 11 mins  ████████████▓░░░░░░░░░░░░   50.06 %
+Other        4 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
 ```
 
 <!--END_SECTION:waka-->
