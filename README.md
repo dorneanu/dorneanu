@@ -38,11 +38,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [Some good best practices how to build #microservices using #serverless architecture - https://dev.to/aws-builders/best-practices-for-building-serverless-microservices-on0](https://nitter.net/victordorneanu/status/1564596377195347968#m)
 - [Reasons why #golang can be used as a glue language: a&rpar; It generates self-contained binaries &lpar;statically linked&rpar;; b&rpar; it&#39;s verb-oriented &lpar;helps you to get sh** done!&rpar;: c&rpar; You only need standard library &lpar;http/net, json etc.&rpar; - https://appliedgo.com/blog/go-as-a-glue-language](https://nitter.net/victordorneanu/status/1564128367074500609#m)
 - [R to @secalert: I feel honored 😊](https://nitter.net/victordorneanu/status/1558412711205261313#m)
 - [R to @intigriti: @janmuenther @victordorneanu @irsdl @RobinVerton](https://nitter.net/secalert/status/1558356634912579584#m)
 - [Book summary: Building Microservices &lpar;2nd edition&rpar; by @samnewman - https://blog.dornea.nu/2022/08/10/book-summary-building-microservices-2nd-edition/  #microservices #architecture #devops #Security](https://nitter.net/victordorneanu/status/1557612162125905920#m)
-- [R to @secalert: Are you know into lisp or what? :D](https://nitter.net/victordorneanu/status/1556949850117312514#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
