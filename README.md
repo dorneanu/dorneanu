@@ -38,11 +38,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [Migrate #tiddlywiki to #orgroam - Part 1 Motivation and export of exiting notes - https://blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/ #pkms #basb #Notetaking #orgmode](https://nitter.net/victordorneanu/status/1566332544420921345#m)
 - [&quot;Helping people make better carreer decisions&quot; - https://www.levels.fyi/](https://nitter.net/victordorneanu/status/1565214044885291009#m)
 - [For anyone willing to learn #systemdesign this is a good reference - https://github.com/karanpratapsingh/system-design](https://nitter.net/victordorneanu/status/1565213149971845120#m)
 - [An Analysis of a #Python Malware Loader - Interesting capabilities! -  https://www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader](https://nitter.net/victordorneanu/status/1564850025028587520#m)
 - [Announcing Google’s Open Source Software Vulnerability Rewards Program. Find bugs in #golang, #angular, #gcp, #protobuf - https://security.googleblog.com/2023/08/Announcing-Googles-Open-Source-Software-Vulnerability-Rewards-Program%20.html](https://nitter.net/victordorneanu/status/1564848234371104768#m)
-- [Some good best practices how to build #microservices using #serverless architecture - https://dev.to/aws-builders/best-practices-for-building-serverless-microservices-on0](https://nitter.net/victordorneanu/status/1564596377195347968#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
