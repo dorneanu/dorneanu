@@ -22,6 +22,10 @@
   -->
 
   ---
+  
+  **📚 Currently Reading**
+  
+  ---
 
   **📝 Latest Blog Posts**
 
