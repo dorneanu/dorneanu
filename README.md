@@ -61,12 +61,12 @@
 
   <!--START_SECTION:waka-->
 
-  ```text
-  Org           13 hrs 34 mins  █████████████▓░░░░░░░░░░░   54.12 %
-  Python        4 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-  Other         3 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-  ```
+```text
+Org           13 hrs 34 mins  █████████████▓░░░░░░░░░░░   54.12 %
+Python        4 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+Other         3 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   ---
