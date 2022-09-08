@@ -45,11 +45,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [Example of &quot;Layered Architecture&quot; &lpar;pretty similar to Hexagonal / Ports&amp;Adapters architecture&rpar; in #golang - https://dev.to/codypotter/layered-architectures-in-go-3cg8](https://nitter.net/victordorneanu/status/1567401755461156864#m)
+- [Great example how to use ory &lpar;as Identity Provider and authentication layer&rpar; from @OryCorp and kong &lpar;as an API gateway&rpar; - https://dev.to/gen1us2k/secure-microservices-with-kong-and-ory-3j8l #golang](https://nitter.net/victordorneanu/status/1567394505128611841#m)
 - [Learn more about git&#39;s database internals in this series - https://github.blog/2022-09-02-gits-database-internals-v-scalability/ #github](https://nitter.net/victordorneanu/status/1566696736449495042#m)
 - [Migrate #tiddlywiki to #orgroam - Part 1 Motivation and export of exiting notes - https://blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/ #pkms #basb #Notetaking #orgmode](https://nitter.net/victordorneanu/status/1566332544420921345#m)
 - [&quot;Helping people make better carreer decisions&quot; - https://www.levels.fyi/](https://nitter.net/victordorneanu/status/1565214044885291009#m)
-- [For anyone willing to learn #systemdesign this is a good reference - https://github.com/karanpratapsingh/system-design](https://nitter.net/victordorneanu/status/1565213149971845120#m)
-- [An Analysis of a #Python Malware Loader - Interesting capabilities! -  https://www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader](https://nitter.net/victordorneanu/status/1564850025028587520#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
