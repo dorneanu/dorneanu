@@ -44,11 +44,13 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [R to @GDGBerlinGo: Thanks for the orga!](https://nitter.net/victordorneanu/status/1570308402638913538#m)
+- [Patagonia founder gives away his company https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html](https://nitter.net/victordorneanu/status/1570295432747819008#m)
+- [OMG! :&rpar; &quot;[...] Googlers were told to get off their bean bag chairs and work — and now, upon the announcement that the company has extended a two-week hiring freeze, workers have grown increasingly alarmed at the new mandate that they actually do work.&quot; https://futurism.com/the-byte/google-employees-work-mandate](https://nitter.net/victordorneanu/status/1570293930587213826#m)
+- [RT by @victordorneanu: Thanks @SumUp for hosting us for our first hybrid event in a VERY long time! 
+
+#golang is back in Berlin💕](https://nitter.net/GDGBerlinGo/status/1570112430675578880#m)
 - [How to measure software quality @monzo - https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence](https://nitter.net/victordorneanu/status/1569953445934768129#m)
-- [This is an awesome introduction to #eBPF - Thanks @lizrice and @changelog https://changelog.com/news/the-power-of-ebpf-pj2V](https://nitter.net/victordorneanu/status/1569568923191808000#m)
-- [Example of &quot;Layered Architecture&quot; &lpar;pretty similar to Hexagonal / Ports&amp;Adapters architecture&rpar; in #golang - https://dev.to/codypotter/layered-architectures-in-go-3cg8](https://nitter.net/victordorneanu/status/1567401755461156864#m)
-- [Great example how to use ory &lpar;as Identity Provider and authentication layer&rpar; from @OryCorp and kong &lpar;as an API gateway&rpar; - https://dev.to/gen1us2k/secure-microservices-with-kong-and-ory-3j8l #golang](https://nitter.net/victordorneanu/status/1567394505128611841#m)
-- [Learn more about git&#39;s database internals in this series - https://github.blog/2022-09-02-gits-database-internals-v-scalability/ #github](https://nitter.net/victordorneanu/status/1566696736449495042#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
