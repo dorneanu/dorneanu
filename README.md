@@ -44,13 +44,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [How to build a bank using #AWS, #Golang, #microservices and #kubernetes @monzo - http://www.youtube.com/watch?v=NTgB2z0E9ZU](https://nitter.net/victordorneanu/status/1572901910914682886#m)
 - [Comprehensive guide how to use #emacs &lpar;and #orgmode&rpar; for creative writing https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/](https://nitter.net/victordorneanu/status/1572195395501006848#m)
 - [R to @GDGBerlinGo: Thanks for the orga!](https://nitter.net/victordorneanu/status/1570308402638913538#m)
 - [Patagonia founder gives away his company https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html](https://nitter.net/victordorneanu/status/1570295432747819008#m)
 - [OMG! :&rpar; &quot;[...] Googlers were told to get off their bean bag chairs and work — and now, upon the announcement that the company has extended a two-week hiring freeze, workers have grown increasingly alarmed at the new mandate that they actually do work.&quot; https://futurism.com/the-byte/google-employees-work-mandate](https://nitter.net/victordorneanu/status/1570293930587213826#m)
-- [RT by @victordorneanu: Thanks @SumUp for hosting us for our first hybrid event in a VERY long time! 
-
-#golang is back in Berlin💕](https://nitter.net/GDGBerlinGo/status/1570112430675578880#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
