@@ -62,8 +62,8 @@ Or book notes at: https://brainfck.org/book/building-a-second-brain/](https://ni
   <!--START_SECTION:waka-->
 
 ```text
-Org     1 hr 57 mins    █████████████████▓░░░░░░░   70.59 %
-Other   49 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+Org     2 hrs 1 min     █████████████████▓░░░░░░░   71.25 %
+Other   49 mins         ███████▒░░░░░░░░░░░░░░░░░   28.75 %
 ```
 
 <!--END_SECTION:waka-->
