@@ -1,10 +1,10 @@
   - [ ] <h2 align="center">👋 Welcome, bine ai venit, willkommen! My name is Victor. </h2>
-                        <p align="center">
-                        <a href="https://dornea.nu/cv">CV</a> •
-                        <a href="https://blog.dornea.nu">Blog</a> •
-                        <a href="https://twitter.com/victordorneanu">Twitter</a> •
-                        <a href="https://www.linkedin.com/in/victor-dorneanu/">LinkedIn</a> 
-                        </p>
+                            <p align="center">
+                            <a href="https://dornea.nu/cv">CV</a> •
+                            <a href="https://blog.dornea.nu">Blog</a> •
+                            <a href="https://twitter.com/victordorneanu">Twitter</a> •
+                            <a href="https://www.linkedin.com/in/victor-dorneanu/">LinkedIn</a> 
+                            </p>
 
   <!--
   **dorneanu/dorneanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@
 
   **📚 Currently Reading**
 
-  - [Building Secure and Reliable Systems](https://www.goodreads.com/en/book/show/52362720-building-secure-and-reliable-systems)
+  - [The Spinoza Problem](https://www.goodreads.com/book/show/12715691-the-spinoza-problem)
 
   ---
 
