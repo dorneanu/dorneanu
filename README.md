@@ -44,13 +44,13 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [embedding &lpar;binary&rpar; content within a binary in #golang is just awesome... and simple! https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/](https://nitter.net/victordorneanu/status/1577221459348529152#m)
 - [Book summary: Building a Second Brain by @fortelabs https://blog.dornea.nu/2022/09/27/book-summary-building-a-second-brain/
 
 Or book notes at: https://brainfck.org/book/building-a-second-brain/](https://nitter.net/victordorneanu/status/1574843834542047232#m)
 - [How to build a bank using #AWS, #Golang, #microservices and #kubernetes @monzo - http://www.youtube.com/watch?v=NTgB2z0E9ZU](https://nitter.net/victordorneanu/status/1572901910914682886#m)
 - [Comprehensive guide how to use #emacs &lpar;and #orgmode&rpar; for creative writing https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/](https://nitter.net/victordorneanu/status/1572195395501006848#m)
 - [R to @GDGBerlinGo: Thanks for the orga!](https://nitter.net/victordorneanu/status/1570308402638913538#m)
-- [Patagonia founder gives away his company https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html](https://nitter.net/victordorneanu/status/1570295432747819008#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
