@@ -32,11 +32,11 @@
   **📝 Latest Blog Posts**
 
   <!-- BLOG-POST-LIST:START -->
+- [Migrate Tiddlywiki to org-roam - Part 2: org-roam and hugo](https://blog.dornea.nu/2022/10/04/migrate-tiddlywiki-to-org-roam-part-2-org-roam-and-hugo/)
 - [Book summary: Building a Second Brain](https://blog.dornea.nu/2022/09/27/book-summary-building-a-second-brain/)
 - [Working in part-time](https://blog.dornea.nu/2022/09/16/working-in-part-time/)
 - [Migrate Tiddlywiki to org-roam - Part 1: Export Tiddlers](https://blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/)
 - [Book summary: Building Microservices &lpar;2nd Edition&rpar;](https://blog.dornea.nu/2022/08/10/book-summary-building-microservices-2nd-edition/)
-- [TiddlyWiki and Emacs](https://blog.dornea.nu/2022/07/12/tiddlywiki-and-emacs/)
 <!-- BLOG-POST-LIST:END -->
 
   ---
