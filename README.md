@@ -44,11 +44,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [Securing SSH infrastructure using Yubikeys and &lpar;yubikey-agent by @FiloSottile for SSH agent forwarding&rpar;. Awesome tips how to safely use agent forwarding! Thanks for sharing @cdzombak - https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html](https://nitter.net/victordorneanu/status/1581948976865374209#m)
 - [R to @BeaBonobo: why what?](https://nitter.net/victordorneanu/status/1579743411409944576#m)
 - [Awesome collection of diagramming tools &lpar;most of them free!&rpar; #plantuml - https://github.com/shubhamgrg04/awesome-diagramming](https://nitter.net/victordorneanu/status/1579731255520026624#m)
 - [R to @victordorneanu: Why?](https://nitter.net/BeaBonobo/status/1577612916861411333#m)
 - [Migrate #Tiddlywiki to #org-roam - Part 2: org-roam and #hugo - https://blog.dornea.nu/2022/10/04/migrate-tiddlywiki-to-org-roam-part-2-org-roam-and-hugo/ #emacs #orgmode](https://nitter.net/victordorneanu/status/1577528599581790208#m)
-- [embedding &lpar;binary&rpar; content within a binary in #golang is just awesome... and simple! https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/](https://nitter.net/victordorneanu/status/1577221459348529152#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
