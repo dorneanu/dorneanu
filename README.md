@@ -44,11 +44,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [Hexagonal Architecture &lpar;in #python&rpar; - https://slides.dornea.nu/2022/hexagonal-architecture/ &lpar;Made with #revealjs #orgmode and #emacs&rpar;](https://nitter.net/victordorneanu/status/1584604022148841473#m)
 - [&quot;The regret of parenting and how to handle it&quot; - https://news.ycombinator.com/item?id=33258925](https://nitter.net/victordorneanu/status/1582720325531619329#m)
 - [&quot;Have you moved from Java to Go &lpar;or another popular language&rpar;?&quot; Looking forward to more threads like this one! #golang - https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/](https://nitter.net/victordorneanu/status/1582634004863492096#m)
 - [Securing SSH infrastructure using Yubikeys and &lpar;yubikey-agent by @FiloSottile for SSH agent forwarding&rpar;. Awesome tips how to safely use agent forwarding! Thanks for sharing @cdzombak - https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html](https://nitter.net/victordorneanu/status/1581948976865374209#m)
 - [R to @BeaBonobo: why what?](https://nitter.net/victordorneanu/status/1579743411409944576#m)
-- [Awesome collection of diagramming tools &lpar;most of them free!&rpar; #plantuml - https://github.com/shubhamgrg04/awesome-diagramming](https://nitter.net/victordorneanu/status/1579731255520026624#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
