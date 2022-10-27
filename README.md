@@ -60,8 +60,8 @@
   <!--START_SECTION:waka-->
 
 ```text
-Org          13 hrs 14 mins  █████████████████░░░░░░░░   68.63 %
-Other        4 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+Org          12 hrs 12 mins  █████████████████░░░░░░░░   67.58 %
+Other        3 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
 ```
 
 <!--END_SECTION:waka-->
