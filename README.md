@@ -44,11 +44,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [Managing technical debt with Glenn Engstrand. Talking about opportunity risks, technological risks and different ways to add a score to the status que - https://www.infoq.com/podcasts/managing-tech-debt/](https://nitter.net/victordorneanu/status/1593141869537787905#m)
 - [Some success stories using #serverless - https://news.ycombinator.com/item?id=33520733](https://nitter.net/victordorneanu/status/1590257465446244354#m)
 - [&quot;A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.&quot; Thanks for sharing! #architecture #software - https://github.com/mehdihadeli/awesome-software-architecture](https://nitter.net/victordorneanu/status/1589585916326297601#m)
 - [Expect some awesome talks during the #serverless summit between 16th - 17th Nov 2022 - https://www.serverless-summit.io/](https://nitter.net/victordorneanu/status/1589518091205185536#m)
 - [Listen to @justicerage why reverse engineering of #golang based #malware is kind of difficult.  - https://changelog.com/gotime/251](https://nitter.net/victordorneanu/status/1587348931092135936#m)
-- [Hijacking AUR packages via expired domains. #archlinux #blackarch - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/](https://nitter.net/victordorneanu/status/1585524466272145409#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
