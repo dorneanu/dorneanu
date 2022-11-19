@@ -44,11 +44,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [R to @cyb_detective: This is all so sad.](https://nitter.net/xchatty/status/1593729009099177989#m)
+- [R to @victordorneanu: My #python and #flask based application I deployed in 2015 is still there: http://crudappify-orgapp.herokuapp.com/ Wow!](https://nitter.net/victordorneanu/status/1593555509612797955#m)
+- [Long before we had FaaS, EC2 or even &quot;clouds&quot; there was #Heroku. Listen to Adam while he talks about the story behind it, the 12-factor app and how the whole platform got sold to Salesforce.  - https://changelog.com/podcast/513](https://nitter.net/victordorneanu/status/1593497668344770560#m)
 - [Managing technical debt with Glenn Engstrand. Talking about opportunity risks, technological risks and different ways to add a score to the status que - https://www.infoq.com/podcasts/managing-tech-debt/](https://nitter.net/victordorneanu/status/1593141869537787905#m)
 - [Some success stories using #serverless - https://news.ycombinator.com/item?id=33520733](https://nitter.net/victordorneanu/status/1590257465446244354#m)
-- [&quot;A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.&quot; Thanks for sharing! #architecture #software - https://github.com/mehdihadeli/awesome-software-architecture](https://nitter.net/victordorneanu/status/1589585916326297601#m)
-- [Expect some awesome talks during the #serverless summit between 16th - 17th Nov 2022 - https://www.serverless-summit.io/](https://nitter.net/victordorneanu/status/1589518091205185536#m)
-- [Listen to @justicerage why reverse engineering of #golang based #malware is kind of difficult.  - https://changelog.com/gotime/251](https://nitter.net/victordorneanu/status/1587348931092135936#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
