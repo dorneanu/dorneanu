@@ -44,11 +44,11 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [10 years in the #infosec industry - https://blog.dornea.nu/2022/12/02/10-years-in-the-infosec-industry/ #Security #recap2022](https://nitter.net/victordorneanu/status/1599016669854060544#m)
 - [&quot;15 reasons why I use #emacs&quot;. This could be also my own arguments 😏 - https://laptrinhx.com/15-reasons-why-i-use-emacs-1798804011/](https://nitter.net/victordorneanu/status/1594958439310102529#m)
 - [R to @cyb_detective: This is all so sad.](https://nitter.net/xchatty/status/1593729009099177989#m)
 - [R to @victordorneanu: My #python and #flask based application I deployed in 2015 is still there: http://crudappify-orgapp.herokuapp.com/ Wow!](https://nitter.net/victordorneanu/status/1593555509612797955#m)
 - [Long before we had FaaS, EC2 or even &quot;clouds&quot; there was #Heroku. Listen to Adam while he talks about the story behind it, the 12-factor app and how the whole platform got sold to Salesforce.  - https://changelog.com/podcast/513](https://nitter.net/victordorneanu/status/1593497668344770560#m)
-- [Managing technical debt with Glenn Engstrand. Talking about opportunity risks, technological risks and different ways to add a score to the status que - https://www.infoq.com/podcasts/managing-tech-debt/](https://nitter.net/victordorneanu/status/1593141869537787905#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
