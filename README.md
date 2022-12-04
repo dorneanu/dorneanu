@@ -32,11 +32,11 @@
   **📝 Latest Blog Posts**
 
   <!-- BLOG-POST-LIST:START -->
+- [10 years in the InfoSec industry](https://blog.dornea.nu/2022/12/02/10-years-in-the-infosec-industry/)
 - [Hexagonal Architecture in Python](https://blog.dornea.nu/2022/10/24/hexagonal-architecture-in-python/)
 - [Migrate Tiddlywiki to org-roam - Part 2: org-roam and hugo](https://blog.dornea.nu/2022/10/04/migrate-tiddlywiki-to-org-roam-part-2-org-roam-and-hugo/)
 - [Book summary: Building a Second Brain](https://blog.dornea.nu/2022/09/27/book-summary-building-a-second-brain/)
 - [Working in part-time](https://blog.dornea.nu/2022/09/16/working-in-part-time/)
-- [Migrate Tiddlywiki to org-roam - Part 1: Export Tiddlers](https://blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/)
 <!-- BLOG-POST-LIST:END -->
 
   ---
