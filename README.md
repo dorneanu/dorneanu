@@ -44,11 +44,14 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [@victordorneanu Thanks for your posts about @TiddlyWiki formats conversion/migration. We&#39;ve followed an opposite path &lpar;from Markdown to WikiText instead of WikiText to Org&rpar; with alternative #LiveCoding tools. Here my reading notes:
+https://hyp.is/5XVNnHsAEe2GIX8QHYgCcA/blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/
+
+https://hyp.is/6UxmwnsEEe2OKXu63GIadQ/blog.dornea.nu/2022/10/04/migrate-tiddlywiki-to-org-roam-part-2-org-roam-and-hugo/](https://nitter.net/offrayLC/status/1602707530261594112#m)
 - [10 years in the #infosec industry - https://blog.dornea.nu/2022/12/02/10-years-in-the-infosec-industry/ #Security #recap2022](https://nitter.net/victordorneanu/status/1599016669854060544#m)
 - [&quot;15 reasons why I use #emacs&quot;. This could be also my own arguments 😏 - https://laptrinhx.com/15-reasons-why-i-use-emacs-1798804011/](https://nitter.net/victordorneanu/status/1594958439310102529#m)
 - [R to @cyb_detective: This is all so sad.](https://nitter.net/xchatty/status/1593729009099177989#m)
 - [R to @victordorneanu: My #python and #flask based application I deployed in 2015 is still there: http://crudappify-orgapp.herokuapp.com/ Wow!](https://nitter.net/victordorneanu/status/1593555509612797955#m)
-- [Long before we had FaaS, EC2 or even &quot;clouds&quot; there was #Heroku. Listen to Adam while he talks about the story behind it, the 12-factor app and how the whole platform got sold to Salesforce.  - https://changelog.com/podcast/513](https://nitter.net/victordorneanu/status/1593497668344770560#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
