@@ -44,14 +44,14 @@
   **📱 Latest Tweets**
 
   <!-- TWITTER:START -->
+- [You probably know about @readwiseio for collecting highlights from your e-books &lpar;mostly Kindle&rpar;. Now they&#39;ve announced the &quot;Reader App&quot;: Integrated #rss feeds, annotated sharing, Youtube highlights and much more. Looks very promising - https://blog.readwise.io/the-next-chapter-of-reader-public-beta/](https://nitter.net/victordorneanu/status/1603295282149658626#m)
+- [R to @offrayLC: nice! I&#39;m glad I could help with some migration strategies.](https://nitter.net/victordorneanu/status/1603287814547939328#m)
 - [@victordorneanu Thanks for your posts about @TiddlyWiki formats conversion/migration. We&#39;ve followed an opposite path &lpar;from Markdown to WikiText instead of WikiText to Org&rpar; with alternative #LiveCoding tools. Here my reading notes:
 https://hyp.is/5XVNnHsAEe2GIX8QHYgCcA/blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/
 
 https://hyp.is/6UxmwnsEEe2OKXu63GIadQ/blog.dornea.nu/2022/10/04/migrate-tiddlywiki-to-org-roam-part-2-org-roam-and-hugo/](https://nitter.net/offrayLC/status/1602707530261594112#m)
 - [10 years in the #infosec industry - https://blog.dornea.nu/2022/12/02/10-years-in-the-infosec-industry/ #Security #recap2022](https://nitter.net/victordorneanu/status/1599016669854060544#m)
 - [&quot;15 reasons why I use #emacs&quot;. This could be also my own arguments 😏 - https://laptrinhx.com/15-reasons-why-i-use-emacs-1798804011/](https://nitter.net/victordorneanu/status/1594958439310102529#m)
-- [R to @cyb_detective: This is all so sad.](https://nitter.net/xchatty/status/1593729009099177989#m)
-- [R to @victordorneanu: My #python and #flask based application I deployed in 2015 is still there: http://crudappify-orgapp.herokuapp.com/ Wow!](https://nitter.net/victordorneanu/status/1593555509612797955#m)
 <!-- TWITTER:END -->
 
   ➡️ [more tweets...](https://twitter.com/victordorneanu)
