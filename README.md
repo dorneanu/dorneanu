@@ -26,9 +26,11 @@
 ## 📚 Currently Reading
 
 <!--START_SECTION:books-->
-
-...
-
+* [The Dip](https://brainfck.org/book/the-dip/)
+* [The Spinoza Problem](https://brainfck.org/book/the-spinoza-problem/)
+* [Building Secure and Reliable Systems](https://brainfck.org/book/building-secure-and-reliable-systems/)
+* [Building a Second Brain](https://brainfck.org/book/building-a-second-brain/)
+* [Deep Work](https://brainfck.org/book/deep-work/)
 <!--END_SECTION:books-->
 
 ---
