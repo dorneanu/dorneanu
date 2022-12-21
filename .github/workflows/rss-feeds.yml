@@ -28,6 +28,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://nitter.net/search/rss?f=tweets&q=victordorneanu
+          feed-url: "https://nitter.net/search/rss?f=tweets&q=victordorneanu"
           readme-section: twitter
           branch: main

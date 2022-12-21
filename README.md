@@ -23,7 +23,7 @@
 
 ---
 
-## 📚 Currently Reading
+## 📚 Last books I've read 
 
 <!--START_SECTION:books-->
 * [The Dip](https://brainfck.org/book/the-dip/)
@@ -68,4 +68,3 @@ Other         3 hrs 57 mins   ███████▒░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
