@@ -1,10 +1,10 @@
-  - [ ] <h2 align="center">👋 Welcome, bine ai venit, willkommen! My name is Victor. </h2>
-                    <p align="center">
-                    <a href="https://dornea.nu/cv">CV</a> •
-                    <a href="https://blog.dornea.nu">Blog</a> •
-                    <a href="https://twitter.com/victordorneanu">Twitter</a> •
-                    <a href="https://www.linkedin.com/in/victor-dorneanu/">LinkedIn</a> 
-                    </p>
+<h2 align="center">👋 Welcome, bine ai venit, willkommen! My name is Victor. </h2>
+<p align="center">
+  <a href="https://dornea.nu/cv">CV</a> •
+  <a href="https://blog.dornea.nu">Blog</a> •
+  <a href="https://twitter.com/victordorneanu">Twitter</a> •
+  <a href="https://www.linkedin.com/in/victor-dorneanu/">LinkedIn</a> 
+</p>
 
   <!--
   **dorneanu/dorneanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,35 +21,41 @@
   - ⚡ Fun fact: ...
   -->
 
-  ---
+---
 
-  **📚 Currently Reading**
+## 📚 Currently Reading\*\*
 
-  <!--START_SECTION:books-->
+<!--START_SECTION:books-->
 
-  <!--END_SECTION:books-->
+...
 
-  ---
+<!--END_SECTION:books-->
 
-  **📝 Latest Blog Posts**
+---
 
-  <!--START_SECTION:blog-->
+## 📝 Latest Blog Posts\*\*
 
-  <!--END_SECTION:blog-->
+<!--START_SECTION:blog-->
 
-  ---
+...
 
-  **📱 Latest Tweets**
+<!--END_SECTION:blog-->
 
-  <!--START_SECTION:twitter-->
+---
 
-  <!--END_SECTION:twitter-->
+## 📱 Latest Tweets\*\*
 
-  ---
+<!--START_SECTION:twitter-->
 
-  📊 **Weekly development breakdown**
+...
 
-  <!--START_SECTION:waka-->
+<!--END_SECTION:twitter-->
+
+---
+
+## 📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
 
 ```text
 Org           9 hrs 10 mins   ████████████████▓░░░░░░░░   66.80 %
@@ -58,4 +64,4 @@ Other         3 hrs 57 mins   ███████▒░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-  ---
+---
