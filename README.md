@@ -23,7 +23,7 @@
 
 ---
 
-## 📚 Currently Reading\*\*
+## 📚 Currently Reading
 
 <!--START_SECTION:books-->
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📝 Latest Blog Posts\*\*
+## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📱 Latest Tweets\*\*
+## 📱 Latest Tweets
 
 <!--START_SECTION:twitter-->
 
