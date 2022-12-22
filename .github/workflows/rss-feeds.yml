@@ -12,9 +12,9 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://brainfck.org/tags/book/feed.xml
+          feed-url: https://brainfck.org/books/feed.xml
           readme-section: books
-          template: "* {{ pubDate}} {{ dateFinished }} [{{ title }}]({{ link }})"
+          template: "* {{ dateFinished }} [{{ title }}]({{ link }})"
           branch: main
   update-blog-posts:
     runs-on: ubuntu-latest
