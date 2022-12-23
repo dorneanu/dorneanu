@@ -26,11 +26,11 @@
 ## 📚 Last books I've read 
 
 <!--START_SECTION:books-->
-*  [100 Go Mistakes and how to avoid them](https://brainfck.org/book/100-go-mistakes-and-how-to-avoid-them/))
-*  [The Dip](https://brainfck.org/book/the-dip/))
-*  [The Spinoza Problem](https://brainfck.org/book/the-spinoza-problem/))
-*  [Building Secure and Reliable Systems](https://brainfck.org/book/building-secure-and-reliable-systems/))
-*  [Building a Second Brain](https://brainfck.org/book/building-a-second-brain/))
+* [Tigan tandari](https://brainfck.org/book/tigan-tandari/)
+* [100 Go Mistakes and how to avoid them](https://brainfck.org/book/100-go-mistakes-and-how-to-avoid-them/)
+* [The Dip](https://brainfck.org/book/the-dip/)
+* [The Spinoza Problem](https://brainfck.org/book/the-spinoza-problem/)
+* [Building Secure and Reliable Systems](https://brainfck.org/book/building-secure-and-reliable-systems/)
 <!--END_SECTION:books-->
 
 ---
