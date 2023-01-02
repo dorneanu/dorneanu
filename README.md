@@ -26,11 +26,11 @@
 ## 📚 Last books I've read 
 
 <!--START_SECTION:books-->
+* [Big Magic: Creative Living Beyond Fear](https://brainfck.org/book/big-magic-creative-living-beyond-fear/)
 * [Tigan tandari](https://brainfck.org/book/tigan-tandari/)
 * [100 Go Mistakes and how to avoid them](https://brainfck.org/book/100-go-mistakes-and-how-to-avoid-them/)
 * [The Dip](https://brainfck.org/book/the-dip/)
 * [The Spinoza Problem](https://brainfck.org/book/the-spinoza-problem/)
-* [Building Secure and Reliable Systems](https://brainfck.org/book/building-secure-and-reliable-systems/)
 <!--END_SECTION:books-->
 
 ---
