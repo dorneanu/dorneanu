@@ -75,8 +75,9 @@ https://hyp.is/6UxmwnsEEe2OKXu63GIadQ/blog.dornea.nu/2022/10/04/migrate-tiddlywi
 <!--START_SECTION:waka-->
 
 ```text
-Org        1 hr 55 mins    ████████████████▒░░░░░░░░   65.24 %
-Other      1 hr            ████████▓░░░░░░░░░░░░░░░░   34.09 %
+Org          3 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.05 %
+HTML         1 hr 52 mins    ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Other        1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.42 %
 ```
 
 <!--END_SECTION:waka-->
