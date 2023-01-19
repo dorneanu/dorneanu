@@ -26,11 +26,11 @@
 ## 📚 Last books I've read 
 
 <!--START_SECTION:books-->
+* [4 Thousand Weeks - Time Management for Mortals](https://brainfck.org/book/4-thousand-weeks-time-management-for-mortals/)
 * [The Lonely Century](https://brainfck.org/book/the-lonely-century/)
 * [Big Magic: Creative Living Beyond Fear](https://brainfck.org/book/big-magic-creative-living-beyond-fear/)
 * [Tigan tandari](https://brainfck.org/book/tigan-tandari/)
 * [100 Go Mistakes and how to avoid them](https://brainfck.org/book/100-go-mistakes-and-how-to-avoid-them/)
-* [The Dip](https://brainfck.org/book/the-dip/)
 <!--END_SECTION:books-->
 
 ---
