@@ -50,6 +50,10 @@
 ## 📱 Latest Tweets
 
 <!--START_SECTION:twitter-->
+* [Book summary: Four Thousand Weeks - Time management for mortals - https://blog.dornea.nu/2023/01/27/book-summary-four-thousand-weeks/](https://nitter.net/victordorneanu/status/1618875293715791873#m)
+* [Awesome post on #Emacs, #productiviy, #pkms and #para 
+
+https://daryl.wakatara.com/emacs-gtd-flow-evolved/](https://nitter.net/victordorneanu/status/1618521751595503617#m)
 * [Releasing gocial
 
 https://github.com/dorneanu/gocial
@@ -61,11 +65,6 @@ Discussions: https://discu.eu/q/https://github.com/dorneanu/gocial
 by @victordorneanu](https://nitter.net/GoDiscussions/status/1603910422473703426#m)
 * [Releasing gocial https://github.com/dorneanu/gocial by @victordorneanu](https://nitter.net/goLibHunt/status/1603813994669539328#m)
 * [You probably know about @readwiseio for collecting highlights from your e-books (mostly Kindle). Now they've announced the "Reader App": Integrated #rss feeds, annotated sharing, Youtube highlights and much more. Looks very promising - https://blog.readwise.io/the-next-chapter-of-reader-public-beta/](https://nitter.net/victordorneanu/status/1603295282149658626#m)
-* [R to @offrayLC: nice! I'm glad I could help with some migration strategies.](https://nitter.net/victordorneanu/status/1603287814547939328#m)
-* [@victordorneanu Thanks for your posts about @TiddlyWiki formats conversion/migration. We've followed an opposite path (from Markdown to WikiText instead of WikiText to Org) with alternative #LiveCoding tools. Here my reading notes:
-https://hyp.is/5XVNnHsAEe2GIX8QHYgCcA/blog.dornea.nu/2022/09/03/migrate-tiddlywiki-to-org-roam-part-1-export-tiddlers/
-
-https://hyp.is/6UxmwnsEEe2OKXu63GIadQ/blog.dornea.nu/2022/10/04/migrate-tiddlywiki-to-org-roam-part-2-org-roam-and-hugo/](https://nitter.net/offrayLC/status/1602707530261594112#m)
 <!--END_SECTION:twitter-->
 
 ---
