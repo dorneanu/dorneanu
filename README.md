@@ -74,9 +74,10 @@ by @victordorneanu](https://nitter.net/GoDiscussions/status/1603910422473703426#
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.54 %
-Org          5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Other        1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Python       8 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   36.91 %
+Org          8 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.65 %
+YAML         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Other        1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
