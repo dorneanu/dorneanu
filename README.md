@@ -27,10 +27,10 @@
 
 <!--START_SECTION:books-->
 * [Meine Grenze ist dein Halt](https://brainfck.org/book/meine-grenze-ist-dein-halt/)
+* [The Alchimist](https://brainfck.org/book/the-alchimist/)
 * [Fooled by Randomness](https://brainfck.org/book/fooled-by-randomness/)
 * [4 Thousand Weeks - Time Management for Mortals](https://brainfck.org/book/4-thousand-weeks-time-management-for-mortals/)
 * [The Lonely Century](https://brainfck.org/book/the-lonely-century/)
-* [Big Magic: Creative Living Beyond Fear](https://brainfck.org/book/big-magic-creative-living-beyond-fear/)
 <!--END_SECTION:books-->
 
 ---
