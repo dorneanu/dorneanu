@@ -74,8 +74,7 @@ by @victordorneanu](https://nitter.net/GoDiscussions/status/1603910422473703426#
 <!--START_SECTION:waka-->
 
 ```text
-Org        32 mins         ██████████████████████▒░░   89.63 %
-Makefile   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Makefile   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
