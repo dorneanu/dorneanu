@@ -74,7 +74,7 @@ by @victordorneanu](https://nitter.net/GoDiscussions/status/1603910422473703426#
 <!--START_SECTION:waka-->
 
 ```text
-Makefile   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
