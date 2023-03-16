@@ -26,11 +26,11 @@
 ## 📚 Last books I've read 
 
 <!--START_SECTION:books-->
+* [Discipline is Destiny](https://brainfck.org/book/discipline-is-destiny/)
+* [Thirst](https://brainfck.org/book/thirst/)
 * [Imagine if…](https://brainfck.org/book/imagine-if/)
 * [Meine Grenze ist dein Halt](https://brainfck.org/book/meine-grenze-ist-dein-halt/)
 * [The Alchimist](https://brainfck.org/book/the-alchimist/)
-* [Fooled by Randomness](https://brainfck.org/book/fooled-by-randomness/)
-* [4 Thousand Weeks - Time Management for Mortals](https://brainfck.org/book/4-thousand-weeks-time-management-for-mortals/)
 <!--END_SECTION:books-->
 
 ---
