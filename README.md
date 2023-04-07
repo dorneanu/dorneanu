@@ -38,11 +38,11 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
+* [AWS Custom resources with Lambda and Golang](https://blog.dornea.nu/2023/04/06/aws-custom-resources-with-lambda-and-golang/)
 * [Book summary: Fooled by randomness](https://blog.dornea.nu/2023/02/04/book-summary-fooled-by-randomness/)
 * [Book summary: Four Thousand Weeks](https://blog.dornea.nu/2023/01/27/book-summary-four-thousand-weeks/)
 * [Book summary: The Lonely Century](https://blog.dornea.nu/2023/01/21/book-summary-the-lonely-century/)
 * [Releasing Gocial](https://blog.dornea.nu/2022/12/15/releasing-gocial/)
-* [10 years in the InfoSec industry](https://blog.dornea.nu/2022/12/02/10-years-in-the-infosec-industry/)
 <!--END_SECTION:blog-->
 
 ---
