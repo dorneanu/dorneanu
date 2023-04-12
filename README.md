@@ -74,8 +74,8 @@ by @victordorneanu](https://nitter.net/GoDiscussions/status/1603910422473703426#
 <!--START_SECTION:waka-->
 
 ```text
-Org          6 hrs 49 mins   █████████▒░░░░░░░░░░░░░░░   37.93 %
-Other        5 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Org          5 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.38 %
+Other        3 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.34 %
 ```
 
 <!--END_SECTION:waka-->
