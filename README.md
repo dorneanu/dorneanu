@@ -50,21 +50,25 @@
 ## 📱 Latest Tweets
 
 <!--START_SECTION:twitter-->
-* [Book summary: Four Thousand Weeks - Time management for mortals - https://blog.dornea.nu/2023/01/27/book-summary-four-thousand-weeks/](https://nitter.net/victordorneanu/status/1618875293715791873#m)
-* [Awesome post on #Emacs, #productiviy, #pkms and #para 
+* [RT by @victordorneanu: When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
 
-https://daryl.wakatara.com/emacs-gtd-flow-evolved/](https://nitter.net/victordorneanu/status/1618521751595503617#m)
-* [Releasing gocial
+{ author: @victordorneanu } #DEVCommunity
+https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/ThePracticalDev/status/1645775961223249926#m)
+* [RT by @devsbubble: When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
 
-https://github.com/dorneanu/gocial
+{ author: @victordorneanu } #DEVCommunity #Cloud
+https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/The_Cloud_Dev/status/1646154957014310916#m)
+* [When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
 
-Discussions: https://discu.eu/q/https://github.com/dorneanu/gocial
+{ author: @victordorneanu } #DEVCommunity #Database
+https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/TheDatabaseDev/status/1645840887316873238#m)
+* [When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
 
-#golang #programming
+{ author: @victordorneanu } #DEVCommunity #GoLang
+https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/TheGoDev/status/1645794080394469381#m)
+* [AWS Lambda 関数に実装されたロジックと、カスタム リソースの管理方法を制御すると、可能性は無限大になります。
 
-by @victordorneanu](https://nitter.net/GoDiscussions/status/1603910422473703426#m)
-* [Releasing gocial https://github.com/dorneanu/gocial by @victordorneanu](https://nitter.net/goLibHunt/status/1603813994669539328#m)
-* [You probably know about @readwiseio for collecting highlights from your e-books (mostly Kindle). Now they've announced the "Reader App": Integrated #rss feeds, annotated sharing, Youtube highlights and much more. Looks very promising - https://blog.readwise.io/the-next-chapter-of-reader-public-beta/](https://nitter.net/victordorneanu/status/1603295282149658626#m)
+{ author: @victordorneanu } #DEVCommunity](https://nitter.net/devtoja/status/1645788805901975556#m)
 <!--END_SECTION:twitter-->
 
 ---
