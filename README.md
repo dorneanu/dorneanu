@@ -50,6 +50,10 @@
 ## 📱 Latest Tweets
 
 <!--START_SECTION:twitter-->
+* [RT by @nilsonrx: When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
+
+{ author: @victordorneanu } #DEVCommunity #JavaScript
+https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/TheJSDev/status/1647171910353010688#m)
 * [RT by @victordorneanu: When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
 
 { author: @victordorneanu } #DEVCommunity
@@ -66,9 +70,6 @@ https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https:
 
 { author: @victordorneanu } #DEVCommunity #GoLang
 https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/TheGoDev/status/1645794080394469381#m)
-* [AWS Lambda 関数に実装されたロジックと、カスタム リソースの管理方法を制御すると、可能性は無限大になります。
-
-{ author: @victordorneanu } #DEVCommunity](https://nitter.net/devtoja/status/1645788805901975556#m)
 <!--END_SECTION:twitter-->
 
 ---
