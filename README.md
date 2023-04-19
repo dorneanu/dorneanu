@@ -50,6 +50,7 @@
 ## 📱 Latest Tweets
 
 <!--START_SECTION:twitter-->
+* [I've really enjoyed the "Hacking with #golang" series with @JusticeRage Especially the 3rd and 4th part!!! - https://changelog.com/gotime/259](https://nitter.net/victordorneanu/status/1648290882292940800#m)
 * [RT by @nilsonrx: When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
 
 { author: @victordorneanu } #DEVCommunity #JavaScript
@@ -66,10 +67,6 @@ https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https:
 
 { author: @victordorneanu } #DEVCommunity #Database
 https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/TheDatabaseDev/status/1645840887316873238#m)
-* [When you control the logic implemented in the AWS Lambda function and how your custom resources should be managed, the possibilities are endless.
-
-{ author: @victordorneanu } #DEVCommunity #GoLang
-https://dev.to/dorneanu/aws-custom-resources-with-lambda-and-golang-1i2o](https://nitter.net/TheGoDev/status/1645794080394469381#m)
 <!--END_SECTION:twitter-->
 
 ---
