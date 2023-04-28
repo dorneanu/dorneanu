@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Exercised](https://brainfck.org/book/exercised/)
 * [Trotzdem Ja zum Leben sagen](https://brainfck.org/book/trotzdem-ja-zum-leben-sagen/)
 * [Discipline is Destiny](https://brainfck.org/book/discipline-is-destiny/)
 * [Thirst](https://brainfck.org/book/thirst/)
 * [Imagine if…](https://brainfck.org/book/imagine-if/)
-* [Meine Grenze ist dein Halt](https://brainfck.org/book/meine-grenze-ist-dein-halt/)
 <!--END_SECTION:books-->
 
 ---
