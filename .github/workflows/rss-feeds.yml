@@ -24,11 +24,11 @@ jobs:
           feed-url: https://blog.dornea.nu/feed.xml
           readme-section: blog
           branch: main
-  update-tweets:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: JasonEtco/rss-to-readme@v2
-        with:
-          feed-url: "https://nitter.net/search/rss?f=tweets&q=victordorneanu"
-          readme-section: twitter
-          branch: main
+  # update-tweets:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: JasonEtco/rss-to-readme@v2
+  #       with:
+  #         feed-url: "https://nitter.net/search/rss?f=tweets&q=victordorneanu"
+  #         readme-section: twitter
+  #         branch: main
