@@ -27,10 +27,10 @@
 
 <!--START_SECTION:books-->
 * [Exercised](https://brainfck.org/book/exercised/)
+* [The Breathing Cure](https://brainfck.org/book/the-breathing-cure/)
 * [Trotzdem Ja zum Leben sagen](https://brainfck.org/book/trotzdem-ja-zum-leben-sagen/)
 * [Discipline is Destiny](https://brainfck.org/book/discipline-is-destiny/)
 * [Thirst](https://brainfck.org/book/thirst/)
-* [Imagine if…](https://brainfck.org/book/imagine-if/)
 <!--END_SECTION:books-->
 
 ---
