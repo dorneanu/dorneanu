@@ -38,11 +38,11 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
+* [AWS Summit 2023 in Berlin](https://blog.dornea.nu/2023/05/09/aws-summit-2023-in-berlin/)
 * [Read Hackernews and Reddit the Emacs way](https://blog.dornea.nu/2023/04/21/read-hackernews-and-reddit-the-emacs-way/)
 * [AWS Custom resources with Lambda and Golang](https://blog.dornea.nu/2023/04/06/aws-custom-resources-with-lambda-and-golang/)
 * [Book summary: Fooled by randomness](https://blog.dornea.nu/2023/02/04/book-summary-fooled-by-randomness/)
 * [Book summary: Four Thousand Weeks](https://blog.dornea.nu/2023/01/27/book-summary-four-thousand-weeks/)
-* [Book summary: The Lonely Century](https://blog.dornea.nu/2023/01/21/book-summary-the-lonely-century/)
 <!--END_SECTION:blog-->
 
 ---
