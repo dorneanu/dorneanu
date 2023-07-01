@@ -52,11 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    1 hr 13 mins    █████████████▒░░░░░░░░░░░   52.69 %
-YAML     40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-Org      16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Bash     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
