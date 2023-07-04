@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Strategien der Natur](https://brainfck.org/book/strategien-der-natur/)
 * [Mastering Ethereum](https://brainfck.org/book/mastering-ethereum/)
 * [Exercised](https://brainfck.org/book/exercised/)
 * [The Breathing Cure](https://brainfck.org/book/the-breathing-cure/)
 * [Trotzdem Ja zum Leben sagen](https://brainfck.org/book/trotzdem-ja-zum-leben-sagen/)
-* [Discipline is Destiny](https://brainfck.org/book/discipline-is-destiny/)
 <!--END_SECTION:books-->
 
 ---
