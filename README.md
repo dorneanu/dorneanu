@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Du darfst nicht alles glauben, was du denkst: Meine Depression](https://brainfck.org/book/du-darfst-nicht-alles-glauben-was-du-denkst-meine-depression/)
 * [Das geheime Band zwischen Mensch und Natur](https://brainfck.org/book/das-geheime-band-zwischen-mensch-und-natur/)
 * [Regăsirea sensului](https://brainfck.org/book/reg%C4%83sirea-sensului/)
 * [Strategien der Natur](https://brainfck.org/book/strategien-der-natur/)
 * [Mastering Ethereum](https://brainfck.org/book/mastering-ethereum/)
-* [Exercised](https://brainfck.org/book/exercised/)
 <!--END_SECTION:books-->
 
 ---
