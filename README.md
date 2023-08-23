@@ -52,8 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Org     1 hr 3 mins     █████████████████▓░░░░░░░   70.54 %
-Other   26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
