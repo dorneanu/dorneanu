@@ -52,9 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Org        10 mins         ███████████████▓░░░░░░░░░   62.87 %
-Markdown   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-Other      2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
