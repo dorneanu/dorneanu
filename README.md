@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Surely, You’re Joking, Mr. Feynman](https://brainfck.org/book/surely-youre-joking-mr.-feynman/)
 * [Drumul spre nelibertate](https://brainfck.org/book/drumul-spre-nelibertate/)
 * [Du darfst nicht alles glauben, was du denkst: Meine Depression](https://brainfck.org/book/du-darfst-nicht-alles-glauben-was-du-denkst-meine-depression/)
 * [Das geheime Band zwischen Mensch und Natur](https://brainfck.org/book/das-geheime-band-zwischen-mensch-und-natur/)
 * [Regăsirea sensului](https://brainfck.org/book/reg%C4%83sirea-sensului/)
-* [Strategien der Natur](https://brainfck.org/book/strategien-der-natur/)
 <!--END_SECTION:books-->
 
 ---
