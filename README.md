@@ -38,11 +38,11 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
+* [Documentation as Code for Cloud - C4 Model & Structurizr](https://blog.dornea.nu/2023/11/02/documentation-as-code-for-cloud-c4-model-structurizr/)
 * [Emacs and the Cybernetic Productivity](https://blog.dornea.nu/2023/09/21/emacs-and-the-cybernetic-productivity/)
 * [Parse podcast transcripts using ChatGPT](https://blog.dornea.nu/2023/08/28/parse-podcast-transcripts-using-chatgpt/)
 * [Documentation as Code for Cloud - PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 * [Documentation as Code for Cloud](https://blog.dornea.nu/2023/07/18/documentation-as-code-for-cloud/)
-* [AWS Summit 2023 in Berlin](https://blog.dornea.nu/2023/05/09/aws-summit-2023-in-berlin/)
 <!--END_SECTION:blog-->
 
 ---
