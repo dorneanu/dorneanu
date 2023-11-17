@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [The Scout Mindset](https://brainfck.org/book/the-scout-mindset/)
 * [Die Mutter der Erfindung](https://brainfck.org/book/die-mutter-der-erfindung/)
 * [Surely, You’re Joking, Mr. Feynman](https://brainfck.org/book/surely-youre-joking-mr.-feynman/)
 * [Drumul spre nelibertate](https://brainfck.org/book/drumul-spre-nelibertate/)
 * [Du darfst nicht alles glauben, was du denkst: Meine Depression](https://brainfck.org/book/du-darfst-nicht-alles-glauben-was-du-denkst-meine-depression/)
-* [Das geheime Band zwischen Mensch und Natur](https://brainfck.org/book/das-geheime-band-zwischen-mensch-und-natur/)
 <!--END_SECTION:books-->
 
 ---
