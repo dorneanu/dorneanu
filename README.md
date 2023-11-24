@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [21 Lessons for the 21st Century](https://brainfck.org/book/21-lessons-for-the-21st-century/)
 * [The Scout Mindset](https://brainfck.org/book/the-scout-mindset/)
 * [Die Mutter der Erfindung](https://brainfck.org/book/die-mutter-der-erfindung/)
 * [Surely, You’re Joking, Mr. Feynman](https://brainfck.org/book/surely-youre-joking-mr.-feynman/)
 * [Drumul spre nelibertate](https://brainfck.org/book/drumul-spre-nelibertate/)
-* [Du darfst nicht alles glauben, was du denkst: Meine Depression](https://brainfck.org/book/du-darfst-nicht-alles-glauben-was-du-denkst-meine-depression/)
 <!--END_SECTION:books-->
 
 ---
