@@ -38,11 +38,11 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
+* [From Doom to Vanilla Emacs](https://blog.dornea.nu/2024/02/22/from-doom-to-vanilla-emacs/)
 * [My 2023 review](https://blog.dornea.nu/2024/01/02/my-2023-review/)
 * [Documentation as Code for Cloud - C4 Model & Structurizr](https://blog.dornea.nu/2023/11/02/documentation-as-code-for-cloud-c4-model-structurizr/)
 * [Emacs and the Cybernetic Productivity](https://blog.dornea.nu/2023/09/21/emacs-and-the-cybernetic-productivity/)
 * [Parse podcast transcripts using ChatGPT](https://blog.dornea.nu/2023/08/28/parse-podcast-transcripts-using-chatgpt/)
-* [Documentation as Code for Cloud - PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 <!--END_SECTION:blog-->
 
 ---
