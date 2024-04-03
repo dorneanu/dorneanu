@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Lost Connections](https://brainfck.org/book/lost-connections/)
 * [The Minimalist Entrepreneur](https://brainfck.org/book/the-minimalist-entrepreneur/)
 * [Company of One](https://brainfck.org/book/company-of-one/)
 * [Domain Driven Design Quickly](https://brainfck.org/book/domain-driven-design-quickly/)
 * [Think again](https://brainfck.org/book/think-again/)
-* [Twilight of Democracy](https://brainfck.org/book/twilight-of-democracy/)
 <!--END_SECTION:books-->
 
 ---
