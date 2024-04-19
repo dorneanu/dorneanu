@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Sapiens: A Brief History of Humandkind](https://brainfck.org/book/sapiens-a-brief-history-of-humandkind/)
 * [Lost Connections](https://brainfck.org/book/lost-connections/)
 * [The Minimalist Entrepreneur](https://brainfck.org/book/the-minimalist-entrepreneur/)
+* [The Startup CTO’s Handbook](https://brainfck.org/book/the-startup-ctos-handbook/)
 * [Company of One](https://brainfck.org/book/company-of-one/)
-* [Domain Driven Design Quickly](https://brainfck.org/book/domain-driven-design-quickly/)
-* [Think again](https://brainfck.org/book/think-again/)
 <!--END_SECTION:books-->
 
 ---
