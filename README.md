@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [When The Body Says No](https://brainfck.org/book/when-the-body-says-no/)
 * [Stolen focus](https://brainfck.org/book/stolen-focus/)
 * [Sapiens: A Brief History of Humandkind](https://brainfck.org/book/sapiens-a-brief-history-of-humandkind/)
 * [Lost Connections](https://brainfck.org/book/lost-connections/)
 * [The Minimalist Entrepreneur](https://brainfck.org/book/the-minimalist-entrepreneur/)
-* [The Startup CTO’s Handbook](https://brainfck.org/book/the-startup-ctos-handbook/)
 <!--END_SECTION:books-->
 
 ---
