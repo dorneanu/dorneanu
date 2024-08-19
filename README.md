@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft](https://brainfck.org/book/triggerpunkte-konsens-und-konflikt-in-der-gegenwartsgesellschaft/)
 * [When The Body Says No](https://brainfck.org/book/when-the-body-says-no/)
 * [Stolen focus](https://brainfck.org/book/stolen-focus/)
 * [Sapiens: A Brief History of Humandkind](https://brainfck.org/book/sapiens-a-brief-history-of-humandkind/)
 * [Lost Connections](https://brainfck.org/book/lost-connections/)
-* [The Minimalist Entrepreneur](https://brainfck.org/book/the-minimalist-entrepreneur/)
 <!--END_SECTION:books-->
 
 ---
