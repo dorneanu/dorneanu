@@ -26,7 +26,7 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
-* [Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft](https://brainfck.org/book/triggerpunkte-konsens-und-konflikt-in-der-gegenwartsgesellschaft/)
+* [Triggerpunkte](https://brainfck.org/book/triggerpunkte/)
 * [When The Body Says No](https://brainfck.org/book/when-the-body-says-no/)
 * [Stolen focus](https://brainfck.org/book/stolen-focus/)
 * [Sapiens: A Brief History of Humandkind](https://brainfck.org/book/sapiens-a-brief-history-of-humandkind/)
