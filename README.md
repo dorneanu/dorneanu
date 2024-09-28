@@ -52,11 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Org          1 hr 25 mins    █████████████░░░░░░░░░░░░   52.58 %
-Go           49 mins         ███████▓░░░░░░░░░░░░░░░░░   30.37 %
-Other        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Emacs Lisp   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
