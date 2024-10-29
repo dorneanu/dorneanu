@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Salz.Fett.Säure.Hitze](https://brainfck.org/book/salz.fett.s%C3%A4ure.hitze/)
 * [Elon Musk](https://brainfck.org/book/elon-musk/)
+* [The Ministry of the Future](https://brainfck.org/book/the-ministry-of-the-future/)
 * [Triggerpunkte](https://brainfck.org/book/triggerpunkte/)
 * [When The Body Says No](https://brainfck.org/book/when-the-body-says-no/)
-* [Stolen focus](https://brainfck.org/book/stolen-focus/)
-* [Sapiens: A Brief History of Humandkind](https://brainfck.org/book/sapiens-a-brief-history-of-humandkind/)
 <!--END_SECTION:books-->
 
 ---
