@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Farm der Tiere](https://brainfck.org/book/farm-der-tiere/)
 * [Die Geschichte der Bienen](https://brainfck.org/book/die-geschichte-der-bienen/)
 * [Salz.Fett.Säure.Hitze](https://brainfck.org/book/salz.fett.s%C3%A4ure.hitze/)
 * [Elon Musk](https://brainfck.org/book/elon-musk/)
 * [The Ministry of the Future](https://brainfck.org/book/the-ministry-of-the-future/)
-* [Triggerpunkte](https://brainfck.org/book/triggerpunkte/)
 <!--END_SECTION:books-->
 
 ---
