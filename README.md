@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [How Democracies Die](https://brainfck.org/book/how-democracies-die/)
 * [The Effective Executive](https://brainfck.org/book/the-effective-executive/)
 * [Farm der Tiere](https://brainfck.org/book/farm-der-tiere/)
 * [Die Geschichte der Bienen](https://brainfck.org/book/die-geschichte-der-bienen/)
 * [Salz.Fett.Säure.Hitze](https://brainfck.org/book/salz.fett.s%C3%A4ure.hitze/)
-* [Elon Musk](https://brainfck.org/book/elon-musk/)
 <!--END_SECTION:books-->
 
 ---
