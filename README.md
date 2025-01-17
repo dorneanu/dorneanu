@@ -38,7 +38,7 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
-* [Book Summaries: October - September 2024](https://blog.dornea.nu/2025/01/16/book-summaries-october-september-2024/)
+* [Book Summaries: October - December 2024](https://blog.dornea.nu/2025/01/16/book-summaries-october-december-2024/)
 * [My 2024 review](https://blog.dornea.nu/2024/12/19/my-2024-review/)
 * [Mastering Golang Debugging in Emacs](https://blog.dornea.nu/2024/11/28/mastering-golang-debugging-in-emacs/)
 * [Book summaries: May - September 2024](https://blog.dornea.nu/2024/10/16/book-summaries-may-september-2024/)
