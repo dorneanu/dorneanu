@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Jäger, Hirten, Kritiker](https://brainfck.org/book/j%C3%A4ger-hirten-kritiker/)
 * [How Democracies Die](https://brainfck.org/book/how-democracies-die/)
 * [The Effective Executive](https://brainfck.org/book/the-effective-executive/)
 * [Farm der Tiere](https://brainfck.org/book/farm-der-tiere/)
 * [Die Geschichte der Bienen](https://brainfck.org/book/die-geschichte-der-bienen/)
-* [Salz.Fett.Säure.Hitze](https://brainfck.org/book/salz.fett.s%C3%A4ure.hitze/)
 <!--END_SECTION:books-->
 
 ---
