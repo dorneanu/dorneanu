@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Slow Productivity Organized Highlights from “Slow Productivity”](https://brainfck.org/book/slow-productivity-organized-highlights-from-slow-productivity/)
+* [Brave New World](https://brainfck.org/book/brave-new-world/)
 * [Tyranny of the Minority](https://brainfck.org/book/tyranny-of-the-minority/)
 * [Jäger, Hirten, Kritiker](https://brainfck.org/book/j%C3%A4ger-hirten-kritiker/)
 * [How Democracies Die](https://brainfck.org/book/how-democracies-die/)
-* [The Effective Executive](https://brainfck.org/book/the-effective-executive/)
-* [Farm der Tiere](https://brainfck.org/book/farm-der-tiere/)
 <!--END_SECTION:books-->
 
 ---
