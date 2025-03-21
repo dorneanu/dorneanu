@@ -26,7 +26,7 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
-* [Slow Productivity Organized Highlights from “Slow Productivity”](https://brainfck.org/book/slow-productivity-organized-highlights-from-slow-productivity/)
+* [Slow Productivity](https://brainfck.org/book/slow-productivity/)
 * [Brave New World](https://brainfck.org/book/brave-new-world/)
 * [Tyranny of the Minority](https://brainfck.org/book/tyranny-of-the-minority/)
 * [Jäger, Hirten, Kritiker](https://brainfck.org/book/j%C3%A4ger-hirten-kritiker/)
