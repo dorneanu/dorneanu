@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Kleine Freiheit Garten](https://brainfck.org/book/kleine-freiheit-garten/)
 * [Baustellen der Nation](https://brainfck.org/book/baustellen-der-nation/)
 * [Slow Productivity](https://brainfck.org/book/slow-productivity/)
 * [Brave New World](https://brainfck.org/book/brave-new-world/)
 * [Tyranny of the Minority](https://brainfck.org/book/tyranny-of-the-minority/)
-* [Jäger, Hirten, Kritiker](https://brainfck.org/book/j%C3%A4ger-hirten-kritiker/)
 <!--END_SECTION:books-->
 
 ---
