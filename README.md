@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Nexus: A brief history of information networks from the stone age to AI](https://brainfck.org/book/nexus-a-brief-history-of-information-networks-from-the-stone-age-to-ai/)
 * [Brief Answers to the Big Questions](https://brainfck.org/book/brief-answers-to-the-big-questions/)
 * [Kleine Freiheit Garten](https://brainfck.org/book/kleine-freiheit-garten/)
 * [Baustellen der Nation](https://brainfck.org/book/baustellen-der-nation/)
 * [Slow Productivity](https://brainfck.org/book/slow-productivity/)
-* [Brave New World](https://brainfck.org/book/brave-new-world/)
 <!--END_SECTION:books-->
 
 ---
