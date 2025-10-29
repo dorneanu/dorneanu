@@ -27,10 +27,10 @@
 
 <!--START_SECTION:books-->
 * [The Righteous Mind](https://brainfck.org/book/the-righteous-mind/)
+* [The Anxious Generation](https://brainfck.org/book/the-anxious-generation/)
 * [Becoming Supernatural](https://brainfck.org/book/becoming-supernatural/)
 * [Nexus](https://brainfck.org/book/nexus/)
 * [Brief Answers to the Big Questions](https://brainfck.org/book/brief-answers-to-the-big-questions/)
-* [Kleine Freiheit Garten](https://brainfck.org/book/kleine-freiheit-garten/)
 <!--END_SECTION:books-->
 
 ---
