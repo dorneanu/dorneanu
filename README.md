@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [The Stoic Mindset: Living the Ten Principles of Stoicism](https://brainfck.org/book/the-stoic-mindset-living-the-ten-principles-of-stoicism/)
 * [The Righteous Mind](https://brainfck.org/book/the-righteous-mind/)
 * [The Anxious Generation](https://brainfck.org/book/the-anxious-generation/)
 * [Becoming Supernatural](https://brainfck.org/book/becoming-supernatural/)
 * [Nexus](https://brainfck.org/book/nexus/)
-* [Brief Answers to the Big Questions](https://brainfck.org/book/brief-answers-to-the-big-questions/)
 <!--END_SECTION:books-->
 
 ---
