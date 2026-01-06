@@ -38,11 +38,11 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
+* [My 2025 review](https://blog.dornea.nu/2026/01/05/my-2025-review/)
 * [Digital and Analogue: The balance that works for me](https://blog.dornea.nu/2025/06/05/digital-and-analogue-the-balance-that-works-for-me/)
 * [Add pagefind search to hugo](https://blog.dornea.nu/2025/04/10/add-pagefind-search-to-hugo/)
 * [Book Summaries: January - March 2025](https://blog.dornea.nu/2025/04/02/book-summaries-january-march-2025/)
 * [Book Summaries: October - December 2024](https://blog.dornea.nu/2025/01/16/book-summaries-october-december-2024/)
-* [My 2024 review](https://blog.dornea.nu/2024/12/19/my-2024-review/)
 <!--END_SECTION:blog-->
 
 ---
