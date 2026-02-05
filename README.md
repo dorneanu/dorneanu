@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [How to think like Socrates](https://brainfck.org/book/how-to-think-like-socrates/)
+* [How to think like a Roman Emperor](https://brainfck.org/book/how-to-think-like-a-roman-emperor/)
 * [The Little Book of Stoicism](https://brainfck.org/book/the-little-book-of-stoicism/)
 * [The Stoic Mindset: Living the Ten Principles of Stoicism](https://brainfck.org/book/the-stoic-mindset-living-the-ten-principles-of-stoicism/)
 * [The Righteous Mind](https://brainfck.org/book/the-righteous-mind/)
-* [The Anxious Generation](https://brainfck.org/book/the-anxious-generation/)
-* [Becoming Supernatural](https://brainfck.org/book/becoming-supernatural/)
 <!--END_SECTION:books-->
 
 ---
