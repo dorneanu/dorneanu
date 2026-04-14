@@ -38,11 +38,11 @@
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
+* [Using forge with gh CLI token](https://blog.dornea.nu/2026/04/13/using-forge-with-gh-cli-token/)
 * [Book Summaries: April-December 2025](https://blog.dornea.nu/2026/02/27/book-summaries-april-december-2025/)
 * [My 2025 review](https://blog.dornea.nu/2026/02/03/my-2025-review/)
 * [Digital and Analogue: The balance that works for me](https://blog.dornea.nu/2025/06/05/digital-and-analogue-the-balance-that-works-for-me/)
 * [Add pagefind search to hugo](https://blog.dornea.nu/2025/04/10/add-pagefind-search-to-hugo/)
-* [Book Summaries: January - March 2025](https://blog.dornea.nu/2025/04/02/book-summaries-january-march-2025/)
 <!--END_SECTION:blog-->
 
 ---
