@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Earth4All](https://brainfck.org/book/earth4all/)
+* [Blueprint for Revolution](https://brainfck.org/book/blueprint-for-revolution/)
 * [How to think like Socrates](https://brainfck.org/book/how-to-think-like-socrates/)
 * [How to think like a Roman Emperor](https://brainfck.org/book/how-to-think-like-a-roman-emperor/)
 * [The Little Book of Stoicism](https://brainfck.org/book/the-little-book-of-stoicism/)
-* [The Stoic Mindset: Living the Ten Principles of Stoicism](https://brainfck.org/book/the-stoic-mindset-living-the-ten-principles-of-stoicism/)
-* [The Righteous Mind](https://brainfck.org/book/the-righteous-mind/)
 <!--END_SECTION:books-->
 
 ---
