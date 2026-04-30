@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Software Engineering at Google](https://brainfck.org/book/software-engineering-at-google/)
 * [Earth4All](https://brainfck.org/book/earth4all/)
 * [Blueprint for Revolution](https://brainfck.org/book/blueprint-for-revolution/)
+* [Team Topologies](https://brainfck.org/book/team-topologies/)
 * [How to think like Socrates](https://brainfck.org/book/how-to-think-like-socrates/)
-* [How to think like a Roman Emperor](https://brainfck.org/book/how-to-think-like-a-roman-emperor/)
-* [The Little Book of Stoicism](https://brainfck.org/book/the-little-book-of-stoicism/)
 <!--END_SECTION:books-->
 
 ---
