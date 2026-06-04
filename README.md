@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Reclaiming Conversation](https://brainfck.org/book/reclaiming-conversation/)
 * [Software Engineering at Google](https://brainfck.org/book/software-engineering-at-google/)
 * [Earth4All](https://brainfck.org/book/earth4all/)
 * [Blueprint for Revolution](https://brainfck.org/book/blueprint-for-revolution/)
 * [Team Topologies](https://brainfck.org/book/team-topologies/)
-* [How to think like Socrates](https://brainfck.org/book/how-to-think-like-socrates/)
 <!--END_SECTION:books-->
 
 ---
