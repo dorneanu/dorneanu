@@ -26,11 +26,11 @@
 ## 📚 Last books I've read
 
 <!--START_SECTION:books-->
+* [Leaders Eat Last](https://brainfck.org/book/leaders-eat-last/)
 * [Meditations](https://brainfck.org/book/meditations/)
 * [88 Names](https://brainfck.org/book/88-names/)
 * [Fundamentals of Software Architecture](https://brainfck.org/book/fundamentals-of-software-architecture/)
-* [Reclaiming Conversation](https://brainfck.org/book/reclaiming-conversation/)
-* [Software Engineering at Google](https://brainfck.org/book/software-engineering-at-google/)
+* [26 Marathons](https://brainfck.org/book/26-marathons/)
 <!--END_SECTION:books-->
 
 ---
